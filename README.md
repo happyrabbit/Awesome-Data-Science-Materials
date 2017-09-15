@@ -16,7 +16,8 @@ https://www.w3schools.com/sql/
 - [kerasR](https://github.com/statsmaths/kerasR)
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): A curated list of the most cited deep learning papers (since 2012)
 
-## Data Science Job
+## Data Science Craeer
 
-[Probability interview questions](http://vitalflux.com/data-science-175-probability-statistics-interview-questions/)
+- [Excerpts on data science](http://hui1987.com/data-science.html#data-quality)
+- [Probability interview questions](http://vitalflux.com/data-science-175-probability-statistics-interview-questions/)
 
