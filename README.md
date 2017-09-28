@@ -21,3 +21,6 @@ https://www.w3schools.com/sql/
 - [Excerpts on data science](http://hui1987.com/data-science.html#data-quality)
 - [Probability interview questions](http://vitalflux.com/data-science-175-probability-statistics-interview-questions/)
 
+## Others
+
+- Presentation about ios and logs: https://github.com/mac4n6/Presentations
