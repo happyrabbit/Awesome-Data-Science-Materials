@@ -23,4 +23,4 @@ https://www.w3schools.com/sql/
 
 ## Others
 
-- Presentation about ios and logs: https://github.com/mac4n6/Presentations
+- Presentation about iOS and logs: https://github.com/mac4n6/Presentations
