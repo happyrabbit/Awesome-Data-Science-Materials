@@ -14,6 +14,8 @@ https://www.w3schools.com/sql/
 
 - [kerasR](https://github.com/statsmaths/kerasR)
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): A curated list of the most cited deep learning papers (since 2012)
+- Image Kernels: http://setosa.io/ev/image-kernels/
+- http://www.fast.ai
 
 ## Natural Language Processing
 
