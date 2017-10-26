@@ -42,3 +42,8 @@ https://www.w3schools.com/sql/
 ## Others
 
 - Presentation about iOS and logs: https://github.com/mac4n6/Presentations
+- `scijava-jupyter-kernel` aims to be a polyglot Jupyter kernel. It uses the Scijava scripting languages to execute the code in Jupyter client and it's possible to use different languages in the same notebook.
+
+Some of the supported languages are Groovy (default), Python, Beanshell, Clojure, Java, Javascript, Ruby and Scala.
+
+https://github.com/scijava/scijava-jupyter-kernel/tree/afd8c1c7be5b92a734e0fac9d78bcc0216162340
