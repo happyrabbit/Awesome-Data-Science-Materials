@@ -35,7 +35,7 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 
 - `CausalTree`
 
-## Data Science Craeer
+## Data Science Career
 
 - [Excerpts on data science](http://hui1987.com/data-science.html#data-quality)
 - [Probability interview questions](http://vitalflux.com/data-science-175-probability-statistics-interview-questions/)
