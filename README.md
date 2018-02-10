@@ -49,3 +49,7 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 Some of the supported languages are Groovy (default), Python, Beanshell, Clojure, Java, Javascript, Ruby and Scala.
 
 https://github.com/scijava/scijava-jupyter-kernel/tree/afd8c1c7be5b92a734e0fac9d78bcc0216162340
+
+- RStudio Conference 2018
+    - "Official" collection of presentations https://github.com/rstudio/rstudio-conf/tree/master/2018
+    - Slides: https://github.com/simecek/RStudioConf2018Slides
