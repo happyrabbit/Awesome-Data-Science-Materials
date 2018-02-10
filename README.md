@@ -21,7 +21,7 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 ## Natural Language Processing
 
 - [cleanNLP](https://journal.r-project.org/archive/2017/RJ-2017-035/index.html): `cleanNLP` calls one of two state of the art NLP libraries (CoreNLP or spaCy). The package currently supports input text in English, German, French, and Spanish.
-- 
+- Dan Jurafsky & Chris Manning: Natural Language Processing: https://www.youtube.com/playlist?list=PL6397E4B26D00A269
 
 ## Experimentation
 
