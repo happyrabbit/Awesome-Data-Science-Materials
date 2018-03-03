@@ -40,6 +40,7 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 
 - [Excerpts on data science](http://hui1987.com/data-science.html#data-quality)
 - [Probability interview questions](http://vitalflux.com/data-science-175-probability-statistics-interview-questions/)
+- [Test](https://www.testdome.com/tests)
 
 ## Others
 
@@ -54,3 +55,5 @@ https://github.com/scijava/scijava-jupyter-kernel/tree/afd8c1c7be5b92a734e0fac9d
 - RStudio Conference 2018
     - "Official" collection of presentations https://github.com/rstudio/rstudio-conf/tree/master/2018
     - Slides: https://github.com/simecek/RStudioConf2018Slides
+    
+- `plumber`: https://www.rplumber.io/docs/
