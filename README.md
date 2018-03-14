@@ -55,5 +55,6 @@ https://github.com/scijava/scijava-jupyter-kernel/tree/afd8c1c7be5b92a734e0fac9d
 - RStudio Conference 2018
     - "Official" collection of presentations https://github.com/rstudio/rstudio-conf/tree/master/2018
     - Slides: https://github.com/simecek/RStudioConf2018Slides
+    - Training courses: https://www.dropbox.com/sh/8t4k8lgk0su3gjb/AAA6M50Iw_-6T1EEcrzV49pUa?dl=0
     
 - `plumber`: https://www.rplumber.io/docs/
