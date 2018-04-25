@@ -58,3 +58,20 @@ https://github.com/scijava/scijava-jupyter-kernel/tree/afd8c1c7be5b92a734e0fac9d
     - Training courses: https://www.dropbox.com/sh/8t4k8lgk0su3gjb/AAA6M50Iw_-6T1EEcrzV49pUa?dl=0
     
 - `plumber`: https://www.rplumber.io/docs/
+
+## Web Development
+
+- Giraffe Academy (fun and free online programming education): http://www.giraffeacademy.com
+- JavaScript Online Editor:
+    - https://jsfiddle.net
+    - https://codepen.io
+- HTML
+    - WHATWG: Web Hypertext Application Technology Group
+    - W3C: World Wide Web Consortium
+    - Resources for validating html:
+        - html5 standard (academic type of reading). If you want to kind of know what the actual standard is that everybody agreed to, this is a great document to start with.: https://www.w3.org/TR/html5/
+        - The site keeps track of HTML5, SVG, CSS standards, JavaScript APIs etc. It tells you which browser supports what: https://caniuse.com
+        - Find out whether or not your HTML actually is going to work in browsers: http://validator.w3.org/#validate_by_url
+        - Check browser statistics: https://www.w3schools.com/browsers/default.asp
+    
+   
