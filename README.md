@@ -13,7 +13,6 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 
 ## Deep Learning
 
-- [kerasR](https://github.com/statsmaths/kerasR)
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): A curated list of the most cited deep learning papers (since 2012)
 - Image Kernels: http://setosa.io/ev/image-kernels/
 - http://www.fast.ai
@@ -45,7 +44,6 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 ## Others
 
 - Unix Learning Notes: http://scientistcafe.com/notes/Unix/
-- Presentation about iOS and logs: https://github.com/mac4n6/Presentations
 - `scijava-jupyter-kernel` aims to be a polyglot Jupyter kernel. It uses the Scijava scripting languages to execute the code in Jupyter client and it's possible to use different languages in the same notebook.
 
 Some of the supported languages are Groovy (default), Python, Beanshell, Clojure, Java, Javascript, Ruby and Scala.
