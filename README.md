@@ -28,7 +28,7 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 
 - 'pwr' package: https://cran.r-project.org/web/packages/pwr/vignettes/pwr-vignette.html
 
-## Tydy Data
+## Tidy Data
 
 - [`broom`](https://github.com/tidyverse/broom) package:  takes the messy output of built-in functions in R, such as lm, nls, or t.test, and turns them into tidy data frames
 
@@ -36,7 +36,9 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 
 - `CausalTree`
 
-## Data Science Career
+## Data Science Education & Career
+
+- [Industry recommendations for academic data science programs](https://github.com/brohrer/academic_advisory) : The academic advisory document is public and a work in progress. It represents the views of its authors and not necessarily their institutions. It includes collected thoughts on what a data scientist does, and what differentiates an exceptional data scientist. It also includes some ideas about industry-academia partnering and a growing list of industry use cases.
 
 - [Excerpts on data science](http://hui1987.com/data-science.html#data-quality)
 - [Probability interview questions](http://vitalflux.com/data-science-175-probability-statistics-interview-questions/)
