@@ -39,6 +39,13 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 
 - [Deep Neural Networks are Easily Fooled](http://anhnguyen.me/project/fooling/)
 
+
+### RNN
+
+- Cho et al., 2014. [On the Properties of Neural Machine Translation: Encoder–Decoder Approaches](https://www.aclweb.org/anthology/W14-4012)
+- Chung et al., 2014. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
+- Hochreiter & Schmidhuber 1997. [Long short-term memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
+
 ### Others
 
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): A curated list of the most cited deep learning papers (since 2012)
@@ -72,6 +79,7 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 - [Excerpts on data science](http://hui1987.com/data-science.html#data-quality)
 - [Probability interview questions](http://vitalflux.com/data-science-175-probability-statistics-interview-questions/)
 - [Test](https://www.testdome.com/tests)
+
 
 ## Others
 
