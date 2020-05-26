@@ -19,9 +19,46 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 
 ## Deep Learning
 
+### Effective CNNs
+
+- LeNet -5:  LeCun et al., 1998. [Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+
+- AlexNet: Krizhevsky et al., 2012. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+- VGG-16: Simonyan & Zisserman 2015. [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+
+- ResNets: He et al., 2015. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+
+### Different Architecture Search Algorithms:
+
+- [NASnet](https://arxiv.org/pdf/1611.01578.pdf): 1800 GPU days (5 yrs on 1 GPU)
+
+- [AmoebaNet](https://arxiv.org/pdf/1802.01548.pdf): 3150 GPU days
+
+- [DARTS](https://arxiv.org/pdf/1806.09055.pdf): 4 GPU days
+
+- [ENAS](https://arxiv.org/pdf/1802.03268.pdf):  1000 x cheaper than standard NAS
+
+### Understanding Neural Networks
+
+- [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis), [Video](http://yosinski.com/deepvis#toolbox)
+
+- [Deep Neural Networks are Easily Fooled](http://anhnguyen.me/project/fooling/)
+
+
+### RNN
+
+- Cho et al., 2014. [On the Properties of Neural Machine Translation: Encoder–Decoder Approaches](https://www.aclweb.org/anthology/W14-4012)
+- Chung et al., 2014. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
+- Hochreiter & Schmidhuber 1997. [Long short-term memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
+
+### Others
+
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): A curated list of the most cited deep learning papers (since 2012)
 - Image Kernels: http://setosa.io/ev/image-kernels/
 - http://www.fast.ai
+
+
 
 ## Natural Language Processing
 
