@@ -2,6 +2,12 @@
 
 This repository contains a summary of some data science materials: papers, useful packages, MOOC, career development info, etc. 
 
+## Data Science Education & Career
+
+- [Machine Learning Mastery](https://machinelearningmastery.com): Less math and more tutorials with working code.
+- [Deep Learning](https://www.deeplearning.ai/deep-learning-specialization/): Deep Learning Specialization. It teaches the most important and foundational principles of Deep Learning
+- [TensorFlow in Practice](https://www.deeplearning.ai/tensorflow-in-practice/): This Specialization will teach you best practices for using TensorFlow. It is code heavy but doesn't introduce the theoretical background of the models. It is a great companion to Deep Learning Specialization.
+
 ## Data Science Paper
 
 - [Practical Data Science for Stats - a PeerJ Collection](https://peerj.com/collections/50-practicaldatascistats): Very interesting and insightful papers on data science practice
@@ -34,14 +40,6 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 ## Causal Inference
 
 - `CausalTree`
-
-## Data Science Education & Career
-
-- [Industry recommendations for academic data science programs](https://github.com/brohrer/academic_advisory) : The academic advisory document is public and a work in progress. It represents the views of its authors and not necessarily their institutions. It includes collected thoughts on what a data scientist does, and what differentiates an exceptional data scientist. It also includes some ideas about industry-academia partnering and a growing list of industry use cases.
-
-- [Excerpts on data science](http://hui1987.com/data-science.html#data-quality)
-- [Probability interview questions](http://vitalflux.com/data-science-175-probability-statistics-interview-questions/)
-- [Test](https://www.testdome.com/tests)
 
 ## Others
 
