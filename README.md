@@ -6,6 +6,7 @@ This repository contains a summary of some data science materials: papers, usefu
 
 - [Machine Learning Mastery](https://machinelearningmastery.com): Less math and more tutorials with working code.
 - [Deep Learning](https://www.deeplearning.ai/deep-learning-specialization/): Deep Learning Specialization. It teaches the most important and foundational principles of Deep Learning
+- [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/): It is a high-level introduction course. If you want to learn more details about the building blocks of deep learning, refer to the previous course from deeplearning.ai
 - [TensorFlow in Practice](https://www.deeplearning.ai/tensorflow-in-practice/): This Specialization will teach you best practices for using TensorFlow. It is code heavy but doesn't introduce the theoretical background of the models. It is a great companion to Deep Learning Specialization.
 
 ## Data Science Paper
