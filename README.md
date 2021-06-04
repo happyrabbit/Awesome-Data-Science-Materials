@@ -13,10 +13,21 @@ This repository contains a summary of some data science materials: papers, usefu
 
 - [Practical Data Science for Stats - a PeerJ Collection](https://peerj.com/collections/50-practicaldatascistats): Very interesting and insightful papers on data science practice
 
-## SQL Learning
+## SQL 
 
 https://www.w3schools.com/sql/
-SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
+1. SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
+2. Select * SQL: https://selectstarsql.com/
+3. Leetcode: https://lnkd.in/g3c5JGC
+4. LinkedIn Learning: https://lnkd.in/gQXFc4n
+5. Window Functions: https://lnkd.in/g3RtPCJ
+6. HackerRank: https://lnkd.in/grv_9sB
+7. W3 Schools: https://lnkd.in/gJPfrrv
+8. CodeAcademy: https://lnkd.in/gT5xmpN
+9. SQLZoo: https://sqlzoo.net/
+10. SQL Bolt: https://sqlbolt.com/
+11. 1. Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
+12. Effective SQL for Data Science https://ploomber.io/posts/sql/
 
 ## Deep Learning
 
