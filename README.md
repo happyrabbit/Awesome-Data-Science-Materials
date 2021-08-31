@@ -66,6 +66,17 @@ SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
 - [spaCy](https://spacy.io)
 - Dan Jurafsky & Chris Manning: Natural Language Processing: https://www.youtube.com/playlist?list=PL6397E4B26D00A269
 
+## operations research
+
+### operations research package in r
+
+- [mixed-integer linear program (MILP) in R](https://www.r-orms.org/mixed-integer-linear-programming/solvers/)
+- [CRAN Task View: Optimization and Mathematical Programming](https://cran.r-project.org/web/views/Optimization.html)
+
+### operations research package in python
+
+- [Gurobi](http://www.gurobi.com): proprietary and free for academic use
+
 ## Experimentation
 
 - 'pwr' package: https://cran.r-project.org/web/packages/pwr/vignettes/pwr-vignette.html
