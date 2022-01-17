@@ -16,19 +16,18 @@ This repository contains a summary of some data science materials: papers, usefu
 
 ## SQL 
 
-https://www.w3schools.com/sql/
-1. SQL for Data Scientist Learning Notes: http://scientistcafe.com/notes/SQL
-2. Select * SQL: https://selectstarsql.com/
-3. Leetcode: https://lnkd.in/g3c5JGC
-4. LinkedIn Learning: https://lnkd.in/gQXFc4n
-5. Window Functions: https://lnkd.in/g3RtPCJ
-6. HackerRank: https://lnkd.in/grv_9sB
-7. W3 Schools: https://lnkd.in/gJPfrrv
-8. CodeAcademy: https://lnkd.in/gT5xmpN
-9. SQLZoo: https://sqlzoo.net/
-10. SQL Bolt: https://sqlbolt.com/
-11. 1. Zachary Thomas' SQL Questions https://lnkd.in/g-JJzuD
-12. Effective SQL for Data Science https://ploomber.io/posts/sql/
+1. [SQL for Data Scientist Learning Notes](http://scientistcafe.com/notes/SQL)
+2. [Select * SQL](https://selectstarsql.com/)
+3. [Leetcode](https://leetcode.com/problemset/database/) 
+4. [LinkedIn Learning](https://www.linkedin.com/learning/topics/sql)
+5. [Window Functions](https://www.windowfunctions.com/) 
+6. [HackerRank](https://www.hackerrank.com/domains/sql)
+7. [W3 Schools](https://www.w3schools.com/sql/)
+8. [CodeAcademy](https://www.codecademy.com/learn/learn-sql)
+9. [SQLZoo](https://sqlzoo.net/) 
+10. [SQL Bolt](https://sqlbolt.com/): 
+11. [Zachary Thomas' SQL Questions](https://quip.com/2gwZArKuWk7W)
+12. [Effective SQL for Data Science](https://ploomber.io/posts/sql/)
 
 ## Deep Learning
 
@@ -79,7 +78,7 @@ https://www.w3schools.com/sql/
 - [spaCy](https://spacy.io)
 - Dan Jurafsky & Chris Manning: Natural Language Processing: https://www.youtube.com/playlist?list=PL6397E4B26D00A269
 
-## operations research
+## Operations research
 
 ### operations research package in r
 
