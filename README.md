@@ -135,5 +135,7 @@ R Markdown Theme Gallery: http://www.datadreaming.org/post/r-markdown-theme-gall
         - The site keeps track of HTML5, SVG, CSS standards, JavaScript APIs etc. It tells you which browser supports what: https://caniuse.com
         - Find out whether or not your HTML actually is going to work in browsers: http://validator.w3.org/#validate_by_url
         - Check browser statistics: https://www.w3schools.com/browsers/default.asp
-    
+## Public data
+- ICPSR: https://www.icpsr.umich.edu/web/pages/
+- Havard Dataverse: https://dataverse.harvard.edu/
    
