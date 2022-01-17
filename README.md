@@ -8,6 +8,7 @@ This repository contains a summary of some data science materials: papers, usefu
 - [Deep Learning](https://www.deeplearning.ai/deep-learning-specialization/): Deep Learning Specialization. It teaches the most important and foundational principles of Deep Learning
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/): It is a high-level introduction course. If you want to learn more details about the building blocks of deep learning, refer to the previous course from deeplearning.ai
 - [TensorFlow in Practice](https://www.deeplearning.ai/tensorflow-in-practice/): This Specialization will teach you best practices for using TensorFlow. It is code heavy but doesn't introduce the theoretical background of the models. It is a great companion to Deep Learning Specialization.
+- [A Crash Course in Causality](https://www.coursera.org/learn/crash-course-in-causality): Great introduction to causal inference.It provides R code on some example data. 
 
 ## Data Science Paper
 
